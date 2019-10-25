@@ -1,0 +1,1 @@
+git clone -b master https://github.com/Molunerfinn/hexo-theme-melody themes/melody
