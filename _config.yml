@@ -79,7 +79,7 @@ theme: melody
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:1379post/1379post.github.io.git 
+  repository: https://github.com/1379Post/1379Post.github.io.git
   branch: master
   
 search:
